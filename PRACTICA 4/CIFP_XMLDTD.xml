@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cifp SYSTEM "cifp.dtd">
+<cifp>
+    <alumne id="1">
+        <nom>Juan</nom>
+        <llinatges>Pérez Ramos</llinatges>
+        <data_naixement>2004-12-01</data_naixement>
+        <correu>juan.perez@hotmail.com</correu>
+        <data_matricula>2023-09-10</data_matricula>
+        <curs><DAW/></curs>
+    </alumne>
+    <professor id="100">
+        <nom>Marta</nom>
+        <llinatges>García Vidal</llinatges>
+        <data_incorporació>2015-02-20</data_incorporació>
+        <departament><Informàtica/></departament>    
+        <assignatura id_assignatura="501">
+            <nom_assignatura cicle="DAW">Desarrollo de Aplicaciones Web</nom_assignatura>
+            <data_inici>2023-09-15</data_inici>
+            </assignatura>
+        <assignatura id_assignatura="502">
+            <nom_assignatura cicle="ASIX">Seguridad Informática</nom_assignatura>
+        </assignatura>
+    </professor>
+</cifp>

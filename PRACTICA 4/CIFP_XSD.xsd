@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="cifp">
+    <xs:complexType>
+      <xs:sequence minOccurs="0" maxOccurs="unbounded">
+        <xs:element ref="alumne" minOccurs="0" maxOccurs="unbounded"/>
+        <xs:element ref="professor" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="alumne">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nom"/>
+        <xs:element ref="llinatges"/>
+        <xs:element ref="data_naixement" minOccurs="0"/>
+        <xs:element ref="correu" minOccurs="0"/>
+        <xs:element ref="telefon" minOccurs="0"/>
+        <xs:element ref="adreça" minOccurs="0"/>
+        <xs:element ref="data_matricula"/>
+        <xs:element ref="curs"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:integer" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="professor">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nom"/>
+        <xs:element ref="llinatges"/>
+        <xs:element ref="data_naixement" minOccurs="0"/>
+        <xs:element ref="correu" minOccurs="0"/>
+        <xs:element ref="telefon" minOccurs="0"/>
+        <xs:element ref="adreça" minOccurs="0"/>
+        <xs:element ref="data_incorporació"/>
+        <xs:element ref="departament"/>
+        <xs:element ref="assignatura" minOccurs="0" maxOccurs="unbounded"/>
+      </xs:sequence>
+      <xs:attribute name="id" type="xs:integer" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="curs">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="DAM" minOccurs="0"/>
+        <xs:element ref="DAW" minOccurs="0"/>
+        <xs:element ref="ASIX" minOccurs="0"/>
+        <xs:element ref="SMX" minOccurs="0"/>
+        <xs:element ref="SEIA" minOccurs="0"/>
+        <xs:element ref="ER" minOccurs="0"/>
+        <xs:element ref="AUT" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="departament">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Informàtica" minOccurs="0"/>
+        <xs:element ref="Electricitat" minOccurs="0"/>
+        <xs:element ref="Automoció" minOccurs="0"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nom" type="xs:string"/>
+  <xs:element name="llinatges" type="xs:string"/>
+  <xs:element name="data_naixement" type="xs:string"/>
+  <xs:element name="correu" type="xs:string"/>
+  <xs:element name="telefon" type="xs:string"/>
+  <xs:element name="adreça" type="xs:string"/>
+  <xs:element name="data_matricula" type="xs:string"/>
+  <xs:element name="data_incorporació" type="xs:string"/>
+  <xs:element name="data_inici" type="xs:string"/>
+  <xs:element name="data_final" type="xs:string"/>
+  <xs:element name="DAM"><xs:complexType/></xs:element>
+  <xs:element name="DAW"><xs:complexType/></xs:element>
+  <xs:element name="ASIX"><xs:complexType/></xs:element>
+  <xs:element name="SMX"><xs:complexType/></xs:element>
+  <xs:element name="SEIA"><xs:complexType/></xs:element>
+  <xs:element name="ER"><xs:complexType/></xs:element>
+  <xs:element name="AUT"><xs:complexType/></xs:element>
+  <xs:element name="Informàtica"><xs:complexType/></xs:element>
+  <xs:element name="Electricitat"><xs:complexType/></xs:element>
+  <xs:element name="Automoció"><xs:complexType/></xs:element>
+  <xs:element name="assignatura">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="nom_assignatura"/>
+        <xs:element ref="data_inici" minOccurs="0"/>
+        <xs:element ref="data_final" minOccurs="0"/>
+      </xs:sequence>
+      <xs:attribute name="id_assignatura" type="xs:integer" use="required"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="nom_assignatura">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="cicle" type="xs:string" use="required"/>
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,71 @@
+{
+  "$schema": "./cifp_json.json",
+  "cifp": {
+    "alumne": [
+      {
+        "id": 1,
+        "nom": "Juan",
+        "llinatges": "Pérez Ramos",
+        "data_naixement": "2004-12-01",
+        "correu": "juan.perez@hotmail.com",
+        "data_matricula": "2023-09-10",
+        "curs": "DAW"
+      },
+      {
+        "id": 2,
+        "nom": "Mario",
+        "llinatges": "Conde López",
+        "data_naixement": "2006-03-11",
+        "telefon": "675897294",
+        "data_matricula": "2025-09-09",
+        "curs": "DAW"
+      },
+      {
+        "id": 3,
+        "nom": "Maria",
+        "llinatges": "Conde López",
+        "data_naixement": "2006-03-11",
+        "adreça": "C/Mar Carib,4, 07610, Palma",
+        "data_matricula": "2025-09-09",
+        "curs": "ASIX"
+      }
+    ],
+    "professor": [
+      {
+        "id": 100,
+        "nom": "Marta",
+        "llinatges": "García Vidal",
+        "data_incorporació": "2015-02-20",
+        "departament": "Informàtica",
+        "assignatura": [
+          {
+            "id_assignatura": 501,
+            "nom_assignatura": "Desarrollo Aplicaciones Web",
+            "cicle": "DAW",
+            "data_inici": "2023-09-15"
+          },
+          {
+            "id_assignatura": 502,
+            "nom_assignatura": "Seguridad Informática",
+            "cicle": "ASIX"
+          }
+        ]
+      },
+      {
+        "id": 101,
+        "nom": "Matilde",
+        "llinatges": "Navascuez",
+        "data_incorporació": "2025-02-20",
+        "departament": "Informàtica",
+        "assignatura": [
+          {
+            "id_assignatura": 503,
+            "nom_assignatura": "Desarrollo de Aplicaciones Multiplataforma",
+            "cicle": "DAM",
+            "data_inici": "2023-09-15"
+          }
+        ]
+      }
+    ]
+  }
+}
