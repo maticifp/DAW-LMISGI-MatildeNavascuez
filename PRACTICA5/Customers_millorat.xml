@@ -206,9 +206,9 @@
 			<contactFirstName>Christina </contactFirstName>
 		</contact>
 		<address>
-			<addressLine1>Berguvsvägen  8</addressLine1>
+			<addressLine1>BerguvsvÃ¤gen  8</addressLine1>
 			<addressLine2>NULL</addressLine2>
-			<city>Luleå</city>
+			<city>LuleÃ¥</city>
 			<state>NULL</state>
 			<postalCode>S-958 22</postalCode>
 			<country>Sweden</country>
@@ -224,7 +224,7 @@
 			<contactFirstName>Jytte </contactFirstName>
 		</contact>
 		<address>
-			<addressLine1>Vinbæltet 34</addressLine1>
+			<addressLine1>VinbÃ¦ltet 34</addressLine1>
 			<addressLine2>NULL</addressLine2>
 			<city>Kobenhavn</city>
 			<state>NULL</state>
@@ -386,7 +386,7 @@
 			<contactFirstName>Isabel </contactFirstName>
 		</contact>
 		<address>
-			<addressLine1>Estrada da saúde n. 58</addressLine1>
+			<addressLine1>Estrada da saÃºde n. 58</addressLine1>
 			<addressLine2>NULL</addressLine2>
 			<city>Lisboa</city>
 			<state>NULL</state>
@@ -400,11 +400,11 @@
 		<customerName>Daedalus Designs Imports</customerName>
 		<phone>20.16.1555</phone>
 		<contact>
-			<contactLastName>Rancé</contactLastName>
+			<contactLastName>RancÃ©</contactLastName>
 			<contactFirstName>Martine </contactFirstName>
 		</contact>
 		<address>
-			<addressLine1>184, chaussée de Tournai</addressLine1>
+			<addressLine1>184, chaussÃ©e de Tournai</addressLine1>
 			<addressLine2>NULL</addressLine2>
 			<city>Lille</city>
 			<state>NULL</state>
@@ -671,10 +671,10 @@
 		<phone>88.60.1555</phone>
 		<contact>
 			<contactLastName>Citeaux</contactLastName>
-			<contactFirstName>Frédérique </contactFirstName>
+			<contactFirstName>FrÃ©dÃ©rique </contactFirstName>
 		</contact>
 		<address>
-			<addressLine1>24, place Kléber</addressLine1>
+			<addressLine1>24, place KlÃ©ber</addressLine1>
 			<addressLine2>NULL</addressLine2>
 			<city>Strasbourg</city>
 			<state>NULL</state>
@@ -710,7 +710,7 @@
 			<contactFirstName>Eduardo </contactFirstName>
 		</contact>
 		<address>
-			<addressLine1>Rambla de Cataluña, 23</addressLine1>
+			<addressLine1>Rambla de CataluÃ±a, 23</addressLine1>
 			<addressLine2>NULL</addressLine2>
 			<city>Barcelona</city>
 			<state>NULL</state>
@@ -739,14 +739,14 @@
 		<creditLimit>11000.00</creditLimit>
 	</customer>
 	<customer customerNumber="223">
-		<customerName>Natürlich Autos</customerName>
+		<customerName>NatÃ¼rlich Autos</customerName>
 		<phone>0372-555188</phone>
 		<contact>
 			<contactLastName>Kloss</contactLastName>
 			<contactFirstName>Horst </contactFirstName>
 		</contact>
 		<address>
-			<addressLine1>Taucherstraße 10</addressLine1>
+			<addressLine1>TaucherstraÃŸe 10</addressLine1>
 			<addressLine2>NULL</addressLine2>
 			<city>Cunewalde</city>
 			<state>NULL</state>
@@ -766,7 +766,7 @@
 		<address>
 			<addressLine1>Smagsloget 45</addressLine1>
 			<addressLine2>NULL</addressLine2>
-			<city>Århus</city>
+			<city>Ã…rhus</city>
 			<state>NULL</state>
 			<postalCode>8200</postalCode>
 			<country>Denmark</country>
@@ -775,17 +775,17 @@
 		<creditLimit>120800.00</creditLimit>
 	</customer>
 	<customer customerNumber="233">
-		<customerName>Québec Home Shopping Network</customerName>
+		<customerName>QuÃ©bec Home Shopping Network</customerName>
 		<phone>(514) 555-8054</phone>
 		<contact>
-			<contactLastName>Fresnière</contactLastName>
+			<contactLastName>FresniÃ¨re</contactLastName>
 			<contactFirstName>Jean </contactFirstName>
 		</contact>
 		<address>
 			<addressLine1>43 rue St. Laurent</addressLine1>
 			<addressLine2>NULL</addressLine2>
-			<city>Montréal</city>
-			<state>Québec</state>
+			<city>MontrÃ©al</city>
+			<state>QuÃ©bec</state>
 			<postalCode>H1J 1C3</postalCode>
 			<country>Canada</country>
 		</address>
@@ -800,7 +800,7 @@
 			<contactFirstName>Alejandra </contactFirstName>
 		</contact>
 		<address>
-			<addressLine1>Gran Vía, 1</addressLine1>
+			<addressLine1>Gran VÃ­a, 1</addressLine1>
 			<addressLine2>NULL</addressLine2>
 			<city>Madrid</city>
 			<state>NULL</state>
@@ -919,7 +919,7 @@
 		<creditLimit>68100.00</creditLimit>
 	</customer>
 	<customer customerNumber="256">
-		<customerName>Auto Associés and Cie.</customerName>
+		<customerName>Auto AssociÃ©s and Cie.</customerName>
 		<phone>30.59.8555</phone>
 		<contact>
 			<contactLastName>Tonini</contactLastName>
@@ -937,7 +937,7 @@
 		<creditLimit>77900.00</creditLimit>
 	</customer>
 	<customer customerNumber="259">
-		<customerName>Toms Spezialitäten, Ltd</customerName>
+		<customerName>Toms SpezialitÃ¤ten, Ltd</customerName>
 		<phone>0221-5554327</phone>
 		<contact>
 			<contactLastName>Pfalzheim</contactLastName>
@@ -946,7 +946,7 @@
 		<address>
 			<addressLine1>Mehrheimerstr. 369</addressLine1>
 			<addressLine2>NULL</addressLine2>
-			<city>Köln</city>
+			<city>KÃ¶ln</city>
 			<state>NULL</state>
 			<postalCode>50739</postalCode>
 			<country>Germany</country>
@@ -982,7 +982,7 @@
 		<address>
 			<addressLine1>Berliner Platz 43</addressLine1>
 			<addressLine2>NULL</addressLine2>
-			<city>München</city>
+			<city>MÃ¼nchen</city>
 			<state>NULL</state>
 			<postalCode>80805</postalCode>
 			<country>Germany</country>
@@ -1090,7 +1090,7 @@
 		<address>
 			<addressLine1>Grenzacherweg 237</addressLine1>
 			<addressLine2>NULL</addressLine2>
-			<city>Genève</city>
+			<city>GenÃ¨ve</city>
 			<state>NULL</state>
 			<postalCode>1203</postalCode>
 			<country>Switzerland</country>
@@ -1333,7 +1333,7 @@
 		<creditLimit>98800.00</creditLimit>
 	</customer>
 	<customer customerNumber="335">
-		<customerName>Cramer Spezialitäten, Ltd</customerName>
+		<customerName>Cramer SpezialitÃ¤ten, Ltd</customerName>
 		<phone>0555-09555</phone>
 		<contact>
 			<contactLastName>Cramer</contactLastName>
@@ -1504,7 +1504,7 @@
 		<address>
 			<addressLine1>Luisenstr. 48</addressLine1>
 			<addressLine2>NULL</addressLine2>
-			<city>Münster</city>
+			<city>MÃ¼nster</city>
 			<state>NULL</state>
 			<postalCode>44087</postalCode>
 			<country>Germany</country>
@@ -1714,7 +1714,7 @@
 		<customerName>Stuttgart Collectable Exchange</customerName>
 		<phone>0711-555361</phone>
 		<contact>
-			<contactLastName>Müller</contactLastName>
+			<contactLastName>MÃ¼ller</contactLastName>
 			<contactFirstName>Rita </contactFirstName>
 		</contact>
 		<address>
@@ -1826,9 +1826,9 @@
 			<contactFirstName>Martha</contactFirstName>
 		</contact>
 		<address>
-			<addressLine1>Åkergatan 24</addressLine1>
+			<addressLine1>Ã…kergatan 24</addressLine1>
 			<addressLine2>NULL</addressLine2>
-			<city>Bräcke</city>
+			<city>BrÃ¤cke</city>
 			<state>NULL</state>
 			<postalCode>S-844 67</postalCode>
 			<country>Sweden</country>
@@ -1913,7 +1913,7 @@
 		<phone>(91) 555 22 82</phone>
 		<contact>
 			<contactLastName>Sommer</contactLastName>
-			<contactFirstName>Martín </contactFirstName>
+			<contactFirstName>MartÃ­n </contactFirstName>
 		</contact>
 		<address>
 			<addressLine1>C/ Araquil, 67</addressLine1>
@@ -2035,7 +2035,7 @@
 		<creditLimit>55400.00</creditLimit>
 	</customer>
 	<customer customerNumber="477">
-		<customerName>Mit Vergnügen and Co.</customerName>
+		<customerName>Mit VergnÃ¼gen and Co.</customerName>
 		<phone>0621-08555</phone>
 		<contact>
 			<contactLastName>Moos</contactLastName>
@@ -2093,7 +2093,7 @@
 		<phone>(95) 555 82 82</phone>
 		<contact>
 			<contactLastName>Roel</contactLastName>
-			<contactFirstName>José Pedro </contactFirstName>
+			<contactFirstName>JosÃ© Pedro </contactFirstName>
 		</contact>
 		<address>
 			<addressLine1>C/ Romero, 33</addressLine1>
