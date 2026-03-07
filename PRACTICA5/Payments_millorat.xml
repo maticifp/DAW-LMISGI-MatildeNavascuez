@@ -641,8 +641,8 @@
 		<customer customerNumber="144">
 			<customerName>Volvo Model Replicas, Co</customerName>
 			<address>
-				<addressLine1>Berguvsv‰gen  8</addressLine1>
-				<city country="Sweden">LuleÂ</city>
+				<addressLine1>Berguvsv√§gen  8</addressLine1>
+				<city country="Sweden">Lule√•</city>
 			</address>
 			<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
 			<creditLimit>53100.00</creditLimit>
@@ -654,8 +654,8 @@
 		<customer customerNumber="144">
 			<customerName>Volvo Model Replicas, Co</customerName>
 			<address>
-				<addressLine1>Berguvsv‰gen  8</addressLine1>
-				<city country="Sweden">LuleÂ</city>
+				<addressLine1>Berguvsv√§gen  8</addressLine1>
+				<city country="Sweden">Lule√•</city>
 			</address>
 			<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
 			<creditLimit>53100.00</creditLimit>
@@ -667,7 +667,7 @@
 		<customer customerNumber="145">
 			<customerName>Danish Wholesale Imports</customerName>
 			<address>
-				<addressLine1>VinbÊltet 34</addressLine1>
+				<addressLine1>Vinb√¶ltet 34</addressLine1>
 				<city country="Denmark">Kobenhavn</city>
 			</address>
 			<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
@@ -680,7 +680,7 @@
 		<customer customerNumber="145">
 			<customerName>Danish Wholesale Imports</customerName>
 			<address>
-				<addressLine1>VinbÊltet 34</addressLine1>
+				<addressLine1>Vinb√¶ltet 34</addressLine1>
 				<city country="Denmark">Kobenhavn</city>
 			</address>
 			<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
@@ -693,7 +693,7 @@
 		<customer customerNumber="145">
 			<customerName>Danish Wholesale Imports</customerName>
 			<address>
-				<addressLine1>VinbÊltet 34</addressLine1>
+				<addressLine1>Vinb√¶ltet 34</addressLine1>
 				<city country="Denmark">Kobenhavn</city>
 			</address>
 			<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
@@ -706,7 +706,7 @@
 		<customer customerNumber="145">
 			<customerName>Danish Wholesale Imports</customerName>
 			<address>
-				<addressLine1>VinbÊltet 34</addressLine1>
+				<addressLine1>Vinb√¶ltet 34</addressLine1>
 				<city country="Denmark">Kobenhavn</city>
 			</address>
 			<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
@@ -1005,7 +1005,7 @@
 		<customer customerNumber="171">
 			<customerName>Daedalus Designs Imports</customerName>
 			<address>
-				<addressLine1>184, chaussÈe de Tournai</addressLine1>
+				<addressLine1>184, chauss√©e de Tournai</addressLine1>
 				<city country="France">Lille</city>
 			</address>
 			<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
@@ -1018,7 +1018,7 @@
 		<customer customerNumber="171">
 			<customerName>Daedalus Designs Imports</customerName>
 			<address>
-				<addressLine1>184, chaussÈe de Tournai</addressLine1>
+				<addressLine1>184, chauss√©e de Tournai</addressLine1>
 				<city country="France">Lille</city>
 			</address>
 			<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
@@ -1460,7 +1460,7 @@
 		<customer customerNumber="209">
 			<customerName>Mini Caravy</customerName>
 			<address>
-				<addressLine1>24, place KlÈber</addressLine1>
+				<addressLine1>24, place Kl√©ber</addressLine1>
 				<city country="France">Strasbourg</city>
 			</address>
 			<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
@@ -1473,7 +1473,7 @@
 		<customer customerNumber="209">
 			<customerName>Mini Caravy</customerName>
 			<address>
-				<addressLine1>24, place KlÈber</addressLine1>
+				<addressLine1>24, place Kl√©ber</addressLine1>
 				<city country="France">Strasbourg</city>
 			</address>
 			<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
@@ -1486,7 +1486,7 @@
 		<customer customerNumber="209">
 			<customerName>Mini Caravy</customerName>
 			<address>
-				<addressLine1>24, place KlÈber</addressLine1>
+				<addressLine1>24, place Kl√©ber</addressLine1>
 				<city country="France">Strasbourg</city>
 			</address>
 			<salesRepEmployeeNumber>1370</salesRepEmployeeNumber>
@@ -1512,7 +1512,7 @@
 		<customer customerNumber="216">
 			<customerName>Enaco Distributors</customerName>
 			<address>
-				<addressLine1>Rambla de CataluÒa, 23</addressLine1>
+				<addressLine1>Rambla de Catalu√±a, 23</addressLine1>
 				<city country="Spain">Barcelona</city>
 			</address>
 			<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
@@ -1525,7 +1525,7 @@
 		<customer customerNumber="216">
 			<customerName>Enaco Distributors</customerName>
 			<address>
-				<addressLine1>Rambla de CataluÒa, 23</addressLine1>
+				<addressLine1>Rambla de Catalu√±a, 23</addressLine1>
 				<city country="Spain">Barcelona</city>
 			</address>
 			<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
@@ -1538,7 +1538,7 @@
 		<customer customerNumber="216">
 			<customerName>Enaco Distributors</customerName>
 			<address>
-				<addressLine1>Rambla de CataluÒa, 23</addressLine1>
+				<addressLine1>Rambla de Catalu√±a, 23</addressLine1>
 				<city country="Spain">Barcelona</city>
 			</address>
 			<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
@@ -1578,7 +1578,7 @@
 			<customerName>Heintze Collectables</customerName>
 			<address>
 				<addressLine1>Smagsloget 45</addressLine1>
-				<city country="Denmark">≈rhus</city>
+				<city country="Denmark">√Örhus</city>
 			</address>
 			<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
 			<creditLimit>120800.00</creditLimit>
@@ -1591,7 +1591,7 @@
 			<customerName>Heintze Collectables</customerName>
 			<address>
 				<addressLine1>Smagsloget 45</addressLine1>
-				<city country="Denmark">≈rhus</city>
+				<city country="Denmark">√Örhus</city>
 			</address>
 			<salesRepEmployeeNumber>1401</salesRepEmployeeNumber>
 			<creditLimit>120800.00</creditLimit>
@@ -1601,10 +1601,10 @@
 	</check>
 	<check number="BOFA23232">
 		<customer customerNumber="233">
-			<customerName>QuÈbec Home Shopping Network</customerName>
+			<customerName>Qu√©bec Home Shopping Network</customerName>
 			<address>
 				<addressLine1>43 rue St. Laurent</addressLine1>
-				<city country="Canada">MontrÈal</city>
+				<city country="Canada">Montr√©al</city>
 			</address>
 			<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
 			<creditLimit>48700.00</creditLimit>
@@ -1614,10 +1614,10 @@
 	</check>
 	<check number="II180006">
 		<customer customerNumber="233">
-			<customerName>QuÈbec Home Shopping Network</customerName>
+			<customerName>Qu√©bec Home Shopping Network</customerName>
 			<address>
 				<addressLine1>43 rue St. Laurent</addressLine1>
-				<city country="Canada">MontrÈal</city>
+				<city country="Canada">Montr√©al</city>
 			</address>
 			<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
 			<creditLimit>48700.00</creditLimit>
@@ -1627,10 +1627,10 @@
 	</check>
 	<check number="JG981190">
 		<customer customerNumber="233">
-			<customerName>QuÈbec Home Shopping Network</customerName>
+			<customerName>Qu√©bec Home Shopping Network</customerName>
 			<address>
 				<addressLine1>43 rue St. Laurent</addressLine1>
-				<city country="Canada">MontrÈal</city>
+				<city country="Canada">Montr√©al</city>
 			</address>
 			<salesRepEmployeeNumber>1286</salesRepEmployeeNumber>
 			<creditLimit>48700.00</creditLimit>
@@ -1783,7 +1783,7 @@
 	</check>
 	<check number="EP227123">
 		<customer customerNumber="256">
-			<customerName>Auto AssociÈs and Cie.</customerName>
+			<customerName>Auto Associ√©s and Cie.</customerName>
 			<address>
 				<addressLine1>67, avenue de l'Europe</addressLine1>
 				<city country="France">Versailles</city>
@@ -1796,7 +1796,7 @@
 	</check>
 	<check number="HE84936">
 		<customer customerNumber="256">
-			<customerName>Auto AssociÈs and Cie.</customerName>
+			<customerName>Auto Associ√©s and Cie.</customerName>
 			<address>
 				<addressLine1>67, avenue de l'Europe</addressLine1>
 				<city country="France">Versailles</city>
@@ -1809,10 +1809,10 @@
 	</check>
 	<check number="EU280955">
 		<customer customerNumber="259">
-			<customerName>Toms Spezialit‰ten, Ltd</customerName>
+			<customerName>Toms Spezialit√§ten, Ltd</customerName>
 			<address>
 				<addressLine1>Mehrheimerstr. 369</addressLine1>
-				<city country="Germany">Kˆln</city>
+				<city country="Germany">K√∂ln</city>
 			</address>
 			<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
 			<creditLimit>120400.00</creditLimit>
@@ -1822,10 +1822,10 @@
 	</check>
 	<check number="GB361972">
 		<customer customerNumber="259">
-			<customerName>Toms Spezialit‰ten, Ltd</customerName>
+			<customerName>Toms Spezialit√§ten, Ltd</customerName>
 			<address>
 				<addressLine1>Mehrheimerstr. 369</addressLine1>
-				<city country="Germany">Kˆln</city>
+				<city country="Germany">K√∂ln</city>
 			</address>
 			<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
 			<creditLimit>120400.00</creditLimit>
@@ -2020,7 +2020,7 @@
 			<customerName>Vida Sport, Ltd</customerName>
 			<address>
 				<addressLine1>Grenzacherweg 237</addressLine1>
-				<city country="Switzerland">GenËve</city>
+				<city country="Switzerland">Gen√®ve</city>
 			</address>
 			<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
 			<creditLimit>141300.00</creditLimit>
@@ -2033,7 +2033,7 @@
 			<customerName>Vida Sport, Ltd</customerName>
 			<address>
 				<addressLine1>Grenzacherweg 237</addressLine1>
-				<city country="Switzerland">GenËve</city>
+				<city country="Switzerland">Gen√®ve</city>
 			</address>
 			<salesRepEmployeeNumber>1702</salesRepEmployeeNumber>
 			<creditLimit>141300.00</creditLimit>
@@ -3085,8 +3085,8 @@
 		<customer customerNumber="448">
 			<customerName>Scandinavian Gift Ideas</customerName>
 			<address>
-				<addressLine1>≈kergatan 24</addressLine1>
-				<city country="Sweden">Br‰cke</city>
+				<addressLine1>√Ökergatan 24</addressLine1>
+				<city country="Sweden">Br√§cke</city>
 			</address>
 			<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
 			<creditLimit>116400.00</creditLimit>
@@ -3098,8 +3098,8 @@
 		<customer customerNumber="448">
 			<customerName>Scandinavian Gift Ideas</customerName>
 			<address>
-				<addressLine1>≈kergatan 24</addressLine1>
-				<city country="Sweden">Br‰cke</city>
+				<addressLine1>√Ökergatan 24</addressLine1>
+				<city country="Sweden">Br√§cke</city>
 			</address>
 			<salesRepEmployeeNumber>1504</salesRepEmployeeNumber>
 			<creditLimit>116400.00</creditLimit>
