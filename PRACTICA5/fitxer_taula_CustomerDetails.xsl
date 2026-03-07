@@ -8,51 +8,6 @@
 			<body>
 				<table border="1">
 					<tr>
-						<th>Customer
-						Number</th>
-						<th>Customer Name</th>
-						<th>Phone</th>
-						<th>Contact FirstName</th>
-					</tr>
-					<xsl:for-each select="customer">
-						<tr>
-							<td>
-								<xsl:value-of select="customer/@customerNumber"/>
-							</td>
-							<td>
-								<xsl:value-of select="customerName"/>
-							</td>
-							<td>
-								<xsl:value-of select="phone"/>
-							</td>
-							<td>
-								<xsl:value-of select="contactFirstName"/>
-							</td>
-							<td>
-								<xsl:value-of select="pes"/>
-								<xsl:text> </xsl:text>
-								<xsl:value-of select="pes/@unitat"/>
-							</td>
-							<td>
-								<xsl:value-of select="lloc/@planta"/>
-							</td>
-							<td>
-								<xsl:value-of select="lloc/despatx"/>
-							</td>
-						</tr>
-					</xsl:for-each>
-				</table>
-			</body>
-		</html>
-	</xsl:template>
-	<xsl:template match="/">
-		<html>
-			<head>
-				<title>Customer Details</title>
-			</head>
-			<body>
-				<table border="1">
-					<tr>
 						<th>Customer Number</th>
 						<th>Customer Name</th>
 						<th>Phone</th>
